@@ -1,0 +1,10 @@
+.form-row {
+    background-color: rgb(9, 172, 212);
+    border: black;
+    border-style: solid;
+    padding: 15px 25px 15px 25px;
+}
+h2 {
+    text-align: center;
+    color: blue;
+}
